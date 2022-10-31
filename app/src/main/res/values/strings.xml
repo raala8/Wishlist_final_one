@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wishlist_final_one</string>
+    <string name="url">/url</string>
+    <string name="item_name">item_name</string>
+    <string name="submit">submit</string>
+    <string name="prices">prices</string>
+    <string name="textview">textview</string>
+    <string name="text">text</string>
+    <string name="textviews">textviews</string>
+</resources>
